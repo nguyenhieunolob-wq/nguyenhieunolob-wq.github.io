@@ -13,7 +13,7 @@
 ![VN30F  Curve](./equity_curve.png)
 
 ### ✅ Key Performance Metrics (Last 12 Months)
-![Alpha Metrics Detail](./1year.png)
+![Alpha Metrics Detail](./year.png)
 
 > [👉 Truy cập Real-time Dashboard Trading (Streamlit)](https://deploywebps-ckps-emhieutrading.streamlit.app/)  
 > *Ghi chú: Dữ liệu được cập nhật mỗi 5 phút trực tiếp từ Execution Logs.*
