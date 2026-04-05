@@ -5,17 +5,17 @@
 ---
 
 ## 📈 Live Trading Performance (Real-time)
-*Hệ thống giao dịch tự động tích hợp trực tiếp với VNDIRECT (VN30F) và OKX/Binance (Crypto).*
+*Hệ thống giao dịch tự động tích hợp trực tiếp với EntradeX (VN30F) và Binance (Crypto).*
 
-### 📊 VN30F1M Portfolio Equity Curve
-> Biểu đồ tăng trưởng vốn thực tế, bao gồm phí giao dịch và trượt giá (Slippage).
+### 📊 VN30F1M Portfolio  Curve
+> Biểu đồ thông số alpha, bao gồm phí giao dịch và trượt giá (Slippage).
 
-![VN30F Equity Curve](./equity_curve.png)
+![VN30F  Curve](./equity_curve.png)
 
 ### ✅ Key Performance Metrics (Last 12 Months)
-![Alpha Metrics Detail](./alpha_metrics.png)
+![Alpha Metrics Detail](./1year.png)
 
-> [👉 Truy cập Real-time Dashboard (Streamlit)](https://deploywebps-ckps-emhieutrading.streamlit.app/)  
+> [👉 Truy cập Real-time Dashboard Trading (Streamlit)](https://deploywebps-ckps-emhieutrading.streamlit.app/)  
 > *Ghi chú: Dữ liệu được cập nhật mỗi 5 phút trực tiếp từ Execution Logs.*
 
 ---
