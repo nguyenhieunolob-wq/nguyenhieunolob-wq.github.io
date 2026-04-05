@@ -1,9 +1,11 @@
-# NGUYEN MINH HIEU | Quantitative Portfolio
+# NGUYEN MANH HIEU | Quantitative Portfolio
 **Email:** nguyenhieunolo.@gmail.com | **Status:** 🟢 Live Systems Operational
 
 ---
 
 ## 📈 1. Live Trading Performance
+### Hệ thống giao dịch tự động tích hợp trực tiếp với EntradeX (VN30F) và Binance (Crypto).
+
 [👉 View Real-time Dashboard (Click here)](https://deploywebps-ckps-emhieutrading.streamlit.app/)
 
 ### 📊 Portfolio Equity Curve (Real-time)
