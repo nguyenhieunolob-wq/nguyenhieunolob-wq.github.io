@@ -6,8 +6,13 @@
 ## 📈 1. Live Trading Performance
 [👉 View Real-time Dashboard (Click here)](https://deploywebps-ckps-emhieutrading.streamlit.app/)
 
-![VN30F Curve](./equity_curve.png)
-![Alpha Metrics](./year.png)
+### 📊 Portfolio Equity Curve (Real-time)
+*Biểu đồ tăng trưởng thông số alpha, bao gồm phí.*
+![VN30F Equity Curve](./equity_curve.png)
+
+### 🗓 Monthly & Annual Performance Metrics
+*Bảng thống kê hiệu suất chi tiết theo giai đoạn (2025).*
+![Alpha Metrics Detail](./year.png)
 
 ---
 
