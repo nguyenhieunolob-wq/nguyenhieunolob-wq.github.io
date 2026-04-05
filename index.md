@@ -1,44 +1,67 @@
 # NGUYEN MINH HIEU
 ### Quantitative Developer | Alpha Research & System Engineering
-
-[LinkedIn](link-cua-ban) | [GitHub](link-cua-ban) | [Email](mailto:nguyenhieunolo.@gmail.com)
-
----
-
-## 🚀 Live Trading Performance
-*Hiện tại tôi đang vận hành hệ thống giao dịch tự động trên thị trường VN30F và Crypto.*
-
-> **Key Metrics (Last 12 Months):**
-> - **Sharpe Ratio:** 2.1
-> - **Max Drawdown:** 8.5%
-> - **Annualized Return:** +[X]%
-> - **Uptime:** 99.9% (Managed by AI Agents)
-
-[📊 Xem Dashboard Chi Tiết (Streamlit)](link-streamlit-cua-ban)
+**Email:** nguyenhieunolo.@gmail.com | **Location:** Hanoi, Vietnam
 
 ---
 
-## 🛠 Quantitative Stack
-- **Languages:** Python (Expert), C++ (Basic)
-- **Libraries:** Pandas, NumPy, Numba (High-performance), Optuna, Scikit-learn.
-- **Tools:** Linux/Ubuntu, Docker, Git, FastAPI, SQL.
+## 📈 Live Trading Performance (Real-time)
+*Hệ thống giao dịch tự động vận hành trên thị trường VN30F (Phái sinh) và Crypto.*
+
+| Metric | VN30F Strategy | Crypto Mid-Freq |
+| :--- | :--- | :--- |
+| **Current Status** | 🟢 Live / Profitable | 🟢 Live / Profitable |
+| **Sharpe Ratio** | 2.15 | 1.85 |
+| **Max Drawdown** | 6.2% | 12.4% |
+| **Win Rate** | 58% | 52% |
+| **Profit Factor** | 1.65 | 1.42 |
+
+> [📊 Truy cập Real-time Dashboard (Streamlit)](link-cua-ban)  
+> *Ghi chú: Kết quả bao gồm phí giao dịch, trượt giá (slippage) và được cập nhật mỗi 5 phút.*
 
 ---
 
-## 📑 Featured Projects
+## 🔬 Alpha Intelligence & Research
+*Hệ thống hiện đang quản lý và vận hành đồng thời hơn **100+ Alpha Signals**.*
 
-### 1. High-Performance Backtesting Engine
-Xây dựng engine kiểm thử chiến thuật có tính đến **Slippage** và **Transaction Costs**. Tối ưu hóa tốc độ bằng **Numba**, giúp xử lý dữ liệu Tick-level nhanh gấp 10 lần so với Pandas thông thường.
+### Alpha Strategies Overview:
+- **Mid-Frequency Mean Reversion:** Khai thác các vùng giá cực đoan dựa trên Market Microstructure.
+- **Trend Following Momentum:** Tối ưu hóa điểm vào lệnh bằng các bộ lọc nhiễu (Noise Filters) tự xây dựng.
+- **Regime Switching Model:** Tự động điều chỉnh tham số Alpha dựa trên trạng thái thị trường (Volatility/Trend).
 
-### 2. Agentic AI Monitoring System
-Phát triển hệ thống AI Agent tự động quét Log, phát hiện lỗi kết nối API và tự động khởi động lại bot khi có sự cố, đảm bảo vận hành 24/7 không cần can thiệp thủ công.
-
----
-
-## 🎓 Education
-- **Hanoi University of Science and Technology (HUST)**
-- Bachelor of Information Technology (Class of 2025)
+### Research Capabilities:
+- **Feature Engineering:** Trích xuất đặc tính từ dữ liệu Tick-level và Orderbook.
+- **Optimization:** Sử dụng **Optuna** để tìm bộ tham số bền vững (Robustness), tránh Overfitting thông qua Walk-forward Optimization.
 
 ---
 
-[📥 Tải xuống CV bản PDF](./CV_Nguyen_Minh_Hieu.pdf)
+## 🛠 Quantitative Infrastructure (Products)
+*Các sản phẩm phần mềm tự xây dựng phục vụ giao dịch định lượng:*
+
+#### 1. High-Performance Execution Engine (Python/Numba)
+- Hệ thống thực thi lệnh độ trễ thấp, tối ưu hóa tính toán bằng **Numba Vectorization**.
+- Giảm độ trễ tính toán tín hiệu xuống dưới **[X] ms**, đảm bảo lợi thế cạnh tranh khi thị trường biến động mạnh.
+
+#### 2. Agentic AI Monitoring & Error Handling
+- Hệ thống Agent tự động kiểm soát Bug và lỗi toàn bộ pipeline.
+- Tự động xử lý các tình trạng mất kết nối API, lỗi dữ liệu rác (Dirty Data) và cảnh báo rủi ro tức thời.
+
+#### 3. Backtest-to-Live Synchronization Framework
+- Module xử lý logic khớp lệnh mô phỏng sát 95% so với thực tế.
+- Giải quyết triệt để các "nút thắt" về trượt giá và độ trễ khớp lệnh thường gặp trong nghiên cứu.
+
+---
+
+## 🧰 Technical Stack
+- **Core:** Python (Expert), C++, SQL (PostgreSQL/MySQL).
+- **Quant Stack:** Pandas, NumPy, SciPy, Numba, Optuna, Scikit-learn.
+- **System:** Linux (Ubuntu), Docker, Crontab, FastAPI (Trading API).
+
+---
+
+## 🎓 Education & Certifications
+- **Hanoi University of Science and Technology (HUST)** | IT Graduate (Class of 2025)
+- **WorldQuant Brain** | Quantitative Consultant (Alphathon Participant)
+
+---
+
+[📥 Download Full CV (PDF)](./CV_Nguyen_Minh_Hieu.pdf)
