@@ -4,7 +4,7 @@
 ---
 
 ## 📈 1. Live Trading Performance
-[👉 View Real-time Dashboard (Streamlit)](https://deploywebps-ckps-emhieutrading.streamlit.app/)
+[👉 View Real-time Dashboard (Click here)](https://deploywebps-ckps-emhieutrading.streamlit.app/)
 
 ![VN30F Curve](./equity_curve.png)
 ![Alpha Metrics](./year.png)
