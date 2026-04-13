@@ -2,7 +2,7 @@
 **Email:** nguyenhieunolo.@gmail.com | **Status:** 🟢 Live Systems Operational
 
 ---
-
+Kết hợp giữa tư duy xác suất và sức mạnh của Machine Learning để tìm kiếm lợi nhuận từ dòng chảy dữ liệu. Hệ thống được thiết kế để xử lý đa dạng các bộ dữ liệu từ cấu trúc bảng truyền thống đến dữ liệu Raw và dữ liệu phi cấu trúc, giúp khai phá những tín hiệu Alpha ẩn giấu. Vận hành tự động 24/7, hệ thống đảm bảo mỗi quyết định đều dựa trên nền tảng khoa học dữ liệu vững chắc thay vì cảm tính.
 ## 📈 1. Live Trading Performance
 ### Hệ thống giao dịch tự động tích hợp trực tiếp với EntradeX (VN30F) và Binance (Crypto).
 
